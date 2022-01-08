@@ -1,2 +1,2 @@
 # ultra-magic-square
-ultra magic square implemenation in c++
+ultra magic square with evolutionary algorithm implemenation in c++
